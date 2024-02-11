@@ -1,0 +1,35 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
+body{
+    background-color:beige;
+    font-family:'Protest Revolution', sans-serif;;
+}
+#myName{
+    color: rgb(103, 49, 49); 
+    border: 1px solid red;
+}
+h1{
+    color: rgb(130, 183, 130);
+}
+.kuchbhi{
+    color: black; 
+}
+p{
+    border: 1px solid red;
+}
+a{
+    border: 5px dotted blue; 
+} */
+#bada{
+    height: 100vh;
+    border: 2px solid blue;
+    display: flex; 
+    flex-direction: row;
+    justify-content:space-between; 
+    align-items: center;
+}
+#chota{
+    display: flex;
+}
+h1{
+    border: 3px solid red;
+}
