@@ -1,0 +1,30 @@
+header {
+  display: flex;
+  color: rgba(46, 44, 44, 0.87);
+  background-color: #c2cad7e6;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+  padding: 1px 0;
+  width: 100%;
+}
+.left-header {
+  display: flex;
+}
+.middle-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 500px;
+  gap: 10px;
+}
+.right-header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-left: auto;
+  margin-right: 10px;
+  gap: 10px;
+}
+
+.header button{
+  background-color: white
+}
